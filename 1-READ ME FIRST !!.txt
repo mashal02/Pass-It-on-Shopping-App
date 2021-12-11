@@ -1,0 +1,38 @@
+
+DOCUMENTATION
+
+WELCOME TO     "PASS IT ON" 
+A PROJECT BY:
+             MASHAL ASHFAQUE
+             SHIFA IMRAN
+
+
+**********READ ME FIRST!!!  ********
+
+1- IMPORTANT
+The project has been made on Visual Studio 2019. Some escape sequences 
+for colors and speacial characters like heart, diamond etc, are only executable 
+if you compile the code on VS. Otherwise simply black and white console 
+output with vague codes hard to understan for eg 
+where there should be a smiley face, you will see "/x3" .
+
+2-Ensure that the inventory "txt.txt" 
+and "product.txt" are put in the same folder as the 
+.cpp and .h files. Otherwise the built-in inventory will not be accessed.
+
+3- Compilation: 
+Create Project on visual studio and add 2 .cpp files, Name one as Innventory.cpp
+and other as ProjectMain.cpp . Then add 2 .h files to project and name it Innventory.h 
+and ProjFunctions.h. 
+Paste codes from relevant files in the provided Folder. 
+Visual Studio will automatically create a Project Folder. COPY AND PASTE BOTH 
+.TXT FILES IN THAT FOLDER. Product.txt and txt.txt.
+
+For multiple selection options, enter the relevant option number:
+for e.g:
+1-   Order Product
+2.Checkout
+
+Press 1, then enter, to order product and 2 for checkout.
+
+Enjoyyy  :)
