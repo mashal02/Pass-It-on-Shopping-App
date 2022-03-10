@@ -1,3 +1,3 @@
 # Pass-It-on-Shopping-App
-You can get complete explaination here: https://www.youtube.com/watch?v=HqM3V4K3bXg
-A thrift shopping application. Console application, with colors and emoticons to create main menu, welcome screen etc. Utilises concept of adding tags to product description to produce optimum search results. Search function is case insensitive, and produces search results even if there are some spelling mistakes by user. Idea is that user can create an account then put up his own stuff for sale, and also buy stuff from other users. At checkout he has both options, either to log in /sign up (so that address and contact details are not needed again and again) or he can also check out as guest.
+
+A thrift shopping application. Console application, with colors and emoticons to create main menu, welcome screen etc. Utilises concept of adding tags to product description to produce optimum search results. Search function is case insensitive, and produces search results even if there are some spelling mistakes by user. Idea is that user can create an account then put up his own stuff for sale, and also buy stuff from other users. 
